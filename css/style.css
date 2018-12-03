@@ -1,0 +1,7 @@
+html,body{padding:0;margin:0;}
+body{
+  background-image:url(https://github.com/Enoarch/konami_tk/blob/master/readme_file/konami_code.jpg?raw=true);
+  background-size:cover;
+  background-repeat:no-repeat;
+  background-color:black;
+}
